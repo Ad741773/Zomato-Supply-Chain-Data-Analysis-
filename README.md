@@ -1,15 +1,15 @@
-Zomato Supply Chain Data Analysis
+👉Zomato Supply Chain Data Analysis👈
 
 This project focuses on analyzing Zomato's supply chain data using Power BI and Microsoft Excel to uncover meaningful insights, identify performance gaps, and enhance decision-making in food delivery logistics.
 
-Tools Used
+👉Tools Used👈
 
 Microsoft Excel – Data cleaning, preprocessing, and initial exploration
 
 Power BI – Data visualization and interactive dashboard creation
 
 
-Objectives
+👉Objectives👈
 
 Analyze key supply chain metrics (order volume, delivery time, ratings, etc.)
 
@@ -20,7 +20,7 @@ Monitor restaurant performance and customer satisfaction
 Improve operational efficiency through visual insights
 
 
-Key Features
+👉Key Features👈
 
 Interactive Dashboards showcasing:
 
@@ -38,7 +38,7 @@ Data Cleaning using Excel to ensure accuracy and consistency
 Visual Storytelling through intuitive Power BI reports
 
 
-Outcome
+👉Outcome👈
 
 This project offers a comprehensive look at Zomato's supply chain operations, providing actionable insights that can help optimize delivery performance, enhance customer satisfaction, and streamline logistics.
 
